@@ -194,16 +194,10 @@ label.fl.label.loginstat.label-success {
     float: right;
     text-align: right;
 }
-img.fl.fitimg.hand.u-pic {
-    border-radius: 100%!important;
-    margin-top: 4px!important;
-    margin-right: 4px!important
-}
 .fl.ustat {
     margin-top: 1px;
     border-radius: 25%!important
 }
-
 .fl.mini.fa.fa-microphone.btn.btnn-default,.fl.mini.fa.fa-phone.btn.btnn-default {
     font-size: 14px!important;
     width: 49%;
@@ -212,7 +206,6 @@ img.fl.fitimg.hand.u-pic {
     text-align: center;
     border-radius: 15%
 }
-
 .fl.mini.fa.fa-microphone.btn.btnn-default {
     margin-left: 5px;
     margin-left: 5px
@@ -368,11 +361,6 @@ div#l1 {
 }
 h3.popover-title,.fa-gear:before,.fa-cog:before,.fa-commenting-o:before,.fa-group:before,.fa-users:before,span.border,.fl.fa.fa-comment.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.upm.borderg.fa-comment:before,.fa-envelope-o:before,.fa-diamond:before,.fa-search:before,.fa-ban:before,.fa-ban:before,.fa-user-times:before {
     display: none
-}
-img.fl.fitimg.hand.u-pic {
-    border-radius: 100%!important;
-    margin-top: 4px!important;
-    margin-right: 4px!important
 }
 #asim29 {
     height: 100px;

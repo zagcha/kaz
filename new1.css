@@ -391,14 +391,6 @@ a.fl.mini.fa.fa-bullhorn.btn.label-primary {
     padding: 3px 0;
     margin-left: 2px
 }
-div#users img.fl.ustat {
-    border-radius: 37px 37px 5px 37px;
-    margin: 0;
-    margin-right: -38.5px;
-    margin-top: -1px;
-    width: 39px!important;
-    height: 39px!important;
-}
 #as43 {
     top: 295px;
     position: absolute;
@@ -469,16 +461,6 @@ div#tlogins .fl.mini.u-msg {
 }
 div#mic {
     background-color: #f2f2f2
-}
-element.style {
-    border-radius: 10px;
-    margin: 0px;
-    width: 99.5%;
-    padding: 2px 0px 0px;
-    background-color: white;
-    border-width: 0.4px 2px 0.5px;
-    border-style: solid;
-    border-color: rgba(45, 78, 226, 0.603) rgb(55, 47, 165);
 }
 button.btn.fa.fa-image {
     width: 80%;
